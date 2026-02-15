@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# 测试git而使用的注释2
+# 测试git而使用的注释22
 
 # 初始化pygame
 pygame.init()
